@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-20T07:40:05 IST" name="Default suite" finished-at="2023-12-20T07:40:13 IST" duration-ms="8472">
+    <groups>
+    </groups>
+    <test started-at="2023-12-20T07:40:05 IST" name="Default test" finished-at="2023-12-20T07:40:13 IST" duration-ms="8472">
+      <class name="testes.HomeTestes">
+        <test-method is-config="true" signature="launch_Obsqurawebsite()[pri:0, instance:testes.HomeTestes@368247b9]" started-at="2023-12-20T07:40:05 IST" name="launch_Obsqurawebsite" finished-at="2023-12-20T07:40:13 IST" duration-ms="8323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_Obsqurawebsite -->
+        <test-method signature="verify_logo()[pri:0, instance:testes.HomeTestes@368247b9]" started-at="2023-12-20T07:40:13 IST" name="verify_logo" finished-at="2023-12-20T07:40:13 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_logo -->
+      </class> <!-- testes.HomeTestes -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
